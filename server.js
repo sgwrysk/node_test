@@ -8,9 +8,3 @@ app.use(express.static('public')); //
 //   res.send('Hello World!');
 // });
 app.listen(port);
-
-index.js
-
-
-
-
